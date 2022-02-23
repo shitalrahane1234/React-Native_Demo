@@ -73,7 +73,7 @@ const App: () => Node = () => {
           <Section title="Step One">
             Edit <Text style={styles.highlight}>Appkkkkkkk`ß`.js</Text> to change this
             screen and then come back to sevvvhdfkshf. ij yodatubg
-            After changing password
+            After changing password dddd
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
